@@ -3,4 +3,4 @@ Simple Cypress Cucumber POC
 # Instructions:
 * clone the repo
 * run *npm install*
-* run *cypress:open*
+* run *npm run cypress:open*
